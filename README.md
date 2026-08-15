@@ -1,10 +1,11 @@
 # Town-Team-Sales-Analysis
 
+---
+
 ### **Overview**
-* This project aims to analyze the sales data of Town Team for the period between 2019 and 2021.
-* Total sales achieved amounted to $957,132 through 1,036 registered orders.
-* The Casual Wear category led as the top-selling category.
-* The average quantity per order was exactly 1 item.
+This project focuses on analyzing the retail sales performance of Town Team over a three-year period (2019-2021). The dataset encompasses 1,036 registered orders that generated a total revenue of $957,132. The primary objective of this analysis is to explore the data, uncover customer purchasing patterns, evaluate product and category performance, and provide data-driven recommendations to optimize future sales strategies.
+
+---
 
 ### **Questions Answered**
 * What is the total sales amount for the entire period?
@@ -19,10 +20,14 @@
 * What is the most popular brand based on both sales volume and revenue?
 * How does the performance of Casual Wear compare to Semi-Formal wear?
 
+---
+
 ### **Tools Used**
 * **Data Analysis:** Used Pivot Tables to extract Key Performance Indicators (KPIs) such as total sales and total orders.
 * **Data Transformation:** Data cleaning and pre-processing tools to remove duplicates, format dates, and create calculated columns.
 * **Data Visualization:** Dashboard building software (e.g., Power BI / Excel) to design interactive visual reports.
+
+---
 
 ### **What I Did**
 
@@ -36,11 +41,15 @@
 * Designed the first dashboard page (**Sales Distribution Dashboard**) to provide a comprehensive high-level overview featuring KPI cards, annual sales trends, and market share by category.
 * Designed the second page (**Executive Summary / Detailed Insights**) to offer deeper analytical insights, such as product performance comparison, daily sales trends, and sales by order type.
 
+---
+
 ### **Key Insights**
 * The Casual Wear category dominates first place, generating approximately 63% of the company's total revenue.
 * In-store sales (On Shop) account for a massive 93%, while the digital/online presence suffers from clear weakness.
 * March is considered the company's "Golden Season." Additionally, daily purchasing peaks on the 1st of each month due to the "Payday Effect," and gradually declines to its lowest point on the 31st.
 * The Jeans category (especially Levis and Denim brands) is the main profit driver and the true backbone of the company.
+
+---
 
 ### **Recommendations**
 * Target online customers with exclusive offers to capitalize on the massive growth opportunity in this underperforming segment.
