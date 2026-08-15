@@ -22,9 +22,9 @@ This project focuses on analyzing the retail sales performance of Town Team over
 
 ---
 ### **Tools Used**
-* **Data Analysis:** Used **Microsoft Excel** Pivot Tables to aggregate data and extract Key Performance Indicators (KPIs) such as total sales and total orders.
+* **Data Analysis:** Used **Excel** Pivot Tables to aggregate data and extract Key Performance Indicators (KPIs) such as total sales and total orders.
 * **Data Transformation:** Applied **Excel** built-in features and formulas (e.g., TRIM, IF) to clean data, remove duplicates, format dates, and create calculated columns.
-* **Data Visualization:** Designed the entire interactive dashboard and visual reports exclusively within **Microsoft Excel** using advanced charting techniques.
+* **Data Visualization:** Designed the entire interactive dashboard and visual report exclusively within **Excel**.
 
 ---
 
