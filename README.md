@@ -21,11 +21,10 @@ This project focuses on analyzing the retail sales performance of Town Team over
 * How does the performance of Casual Wear compare to Semi-Formal wear?
 
 ---
-
 ### **Tools Used**
-* **Data Analysis:** Used Pivot Tables to extract Key Performance Indicators (KPIs) such as total sales and total orders.
-* **Data Transformation:** Data cleaning and pre-processing tools to remove duplicates, format dates, and create calculated columns.
-* **Data Visualization:** Dashboard building software (e.g., Power BI / Excel) to design interactive visual reports.
+* **Data Analysis:** Used **Microsoft Excel** Pivot Tables to aggregate data and extract Key Performance Indicators (KPIs) such as total sales and total orders.
+* **Data Transformation:** Applied **Excel** built-in features and formulas (e.g., TRIM, IF) to clean data, remove duplicates, format dates, and create calculated columns.
+* **Data Visualization:** Designed the entire interactive dashboard and visual reports exclusively within **Microsoft Excel** using advanced charting techniques.
 
 ---
 
