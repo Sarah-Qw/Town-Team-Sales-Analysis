@@ -36,6 +36,11 @@ This project focuses on analyzing the retail sales performance of Town Team over
 * Standardized text formats in the Order-type column and removed extra spaces in item names using the TRIM function.
 * Created calculated columns using formulas, such as extracting the day number, applying an exclusive 15% discount for (Jeans - Denim), and calculating the net unit price and total order amount.
 
+**2. Data Analysis & Aggregation (Pivot Tables):**
+* Built a comprehensive network of **Pivot Tables** to aggregate the cleaned data and systematically answer the core business questions.
+* Extracted critical metrics (KPIs) and analyzed complex relationships, including total revenue by category, top 5 best-selling products, monthly/daily sales fluctuations, and average order quantities.
+* Structured these Pivot Tables to serve as the underlying data engine feeding directly into the visual charts.
+
 **2. Designed the Dashboard (2 Pages):**
 * Designed the first dashboard page (**Executive Summary**) to provide a comprehensive high-level overview featuring KPI cards, annual sales trends, and market share by category.
 * Designed the second page (**Detailed Insights**) to offer deeper analytical insights, such as product performance comparison, daily sales trends, and sales by order type.
