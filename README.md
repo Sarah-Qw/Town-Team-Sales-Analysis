@@ -37,8 +37,13 @@ This project focuses on analyzing the retail sales performance of Town Team over
 * Created calculated columns using formulas, such as extracting the day number, applying an exclusive 15% discount for (Jeans - Denim), and calculating the net unit price and total order amount.
 
 **2. Designed the Dashboard (2 Pages):**
-* Designed the first dashboard page (**Sales Distribution Dashboard**) to provide a comprehensive high-level overview featuring KPI cards, annual sales trends, and market share by category.
-* Designed the second page (**Executive Summary / Detailed Insights**) to offer deeper analytical insights, such as product performance comparison, daily sales trends, and sales by order type.
+* Designed the first dashboard page (**Executive Summary**) to provide a comprehensive high-level overview featuring KPI cards, annual sales trends, and market share by category.
+* Designed the second page (**Detailed Insights**) to offer deeper analytical insights, such as product performance comparison, daily sales trends, and sales by order type.
+
+<img width="1341" height="881" alt="image_2026-08-15_23-20-08" src="https://github.com/user-attachments/assets/03110fbb-3b5b-4543-ac86-0f55c117edea" />
+<img width="1371" height="858" alt="image_2026-08-15_23-20-46" src="https://github.com/user-attachments/assets/c4fb217b-5fbc-4886-9ed2-de52b2eb022f" />
+
+
 
 ---
 
